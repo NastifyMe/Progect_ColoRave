@@ -280,8 +280,6 @@ html {
     color: #D8D8D8;
     padding-left: 49px;
 }
-.reviews_item_1:hover{
-}
 .reviews_img{
     /* display: flex;
     align-items: start;
@@ -407,10 +405,6 @@ html {
     font-size: 24px;
 
 }
-.footer_question_p {
-}
-.footer_location_item {
-}
 .footer_location_p {
     margin-top: 44px;
     margin-bottom: 7px;
@@ -428,8 +422,6 @@ html {
 .footer_list_logo{
     margin-top: 19px;
     margin-left: 274px;
-}
-.footer_logo {
 }
 .footer_logo_p {
     font-size: 24px;
